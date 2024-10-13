@@ -236,9 +236,9 @@ The framework is compatible with all major desktop and mobile browsers.
   **Start a mainnet node**
 
   ```bash
-  cargo run --release --bin kobrad
+  cargo run --release --bin Kobrad
   # or with UTXO-index enabled (needed when using wallets)
-  cargo run --release --bin kobrad -- --utxoindex
+  cargo run --release --bin Kobrad -- --utxoindex
   ```
   **Start a testnet node**
 
