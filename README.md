@@ -1,5 +1,5 @@
 
-<h1>Kobrad On Habitat - based on Kaspa Rust</h1>
+<h1>Kobrad On RUST - based on Kaspa Rust</h1>
 
 * A new blockchain-based platform called Kobrad is being developed, which utilizes Kaspa as its underlying layer 1 infrastructure.
 * Kobrad will provide a number of benefits over traditional web development, including increased performance, security, and transparency.
