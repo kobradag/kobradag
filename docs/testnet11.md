@@ -7,7 +7,7 @@ In the future testnet 11 will act as a staging zone for all sorts of experiments
 ## Overview
 
 On the software side, participating requires three components:
-1. *pyrin* - the Pyrin client
+1. *kobra* - the Kobra client
 2.  *kaspa-miner* - the Kaspa CPU miner
 3.  *Rothschild* - a transaction generator
 
